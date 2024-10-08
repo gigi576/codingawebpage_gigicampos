@@ -1,0 +1,78 @@
+@charset "UTF-8";
+h1,h4, h5 {
+			 font-family: "Abril Fatface", serif;
+  font-weight: 10;
+  font-style: normal;
+	color: #F2F2F2;
+		}
+h2, h3 {
+		 font-family: "Abril Fatface", serif;
+  font-weight: 10;
+  font-style: normal;
+	color:#2084a1
+	
+
+
+}
+		body {
+    		font-family: "Afacad Flux", sans-serif;
+  			font-optical-sizing: 105px;
+			font-size: 25px;
+  			font-weight: 10px;
+  			font-style: normal;
+  			font-variation-settings:
+   				 "slnt" 0;
+    		margin: 0;
+    		padding-right: 0px;
+			background-color:#F2F2F2;
+	
+				
+		}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+a {
+    color:  #abdfdb;
+    text-decoration: none;	
+	
+	
+}
+
+.color a   { 
+	color:#2084a1;
+	
+
+}
+
+a:hover {
+	color:aqua;
+	
+}
+
+
+	
+footer {
+	background-color:#d3eff0;
+	padding: 25px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+header {
+	background-color:#2084a1;
+	padding: 100px;
+	padding-left: 150px;
+	padding-right: 150px;
+	
+	
+}
+section {
+	padding: 100px;
+	padding-left: 150px;
+	padding-right: 150px;
+	
+	
+}
